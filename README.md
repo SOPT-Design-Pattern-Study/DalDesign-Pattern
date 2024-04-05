@@ -37,7 +37,7 @@ Design Pattern 선정은 선착순입니다.
 ### 생성 (Creatinal) 패턴
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
-| 빌더 (Builder) | 민재 (4/12 Soon) | 민재 (4/12 Soon) |
+| 빌더 (Builder) |  | 민재 (4/12 Soon) |
 | 추상 팩토리 (Abstract Factory) | 정교 (4/26 Soon) |
 | 팩토리 메서드 (Factory Method) | 동훈 (4/12 Soon) | 윤서 (4/19 Soon) |
 | 단일체 (Singleton) | 소현 (4/26 Soon)
