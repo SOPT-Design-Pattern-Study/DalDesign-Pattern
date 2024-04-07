@@ -49,16 +49,16 @@ Design Pattern 선정은 선착순입니다.
 | :--: | :--: | :--: |
 | 적응자 (Adapter) | 장순 (5/3 Soon)
 | 장식자 (Decorator) | 환준 (4/26 Soon)
-| 퍼사드 (Facade)
+| 퍼사드 (Facade) | 재연 (4/19 Soon)
 | 복합체 (Composite)
-| 프록시 (Proxy)
+| 프록시 (Proxy) | 동규 (4/19 Soon)
 | 가교 (Bridge)
 | 플라이급 (Flyweight)
 
 ### 행동 (Behavioral) 패턴
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
-| 감시자 (Observer)
+| 감시자 (Observer) | 영철 (4/26 Soon)
 | 전략 (Strategy)
 | 명령 (Command) | 현욱 (4/12 Soon)
 | 책임 연쇄 (Chain of Responsibility)
