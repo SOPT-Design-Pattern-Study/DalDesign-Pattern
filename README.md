@@ -26,10 +26,11 @@ Design Pattern 선정은 선착순입니다.
 <br>
 
 ## 👥 함께 공부하는 사람들
-| [강윤서 yungu0010](https://github.com/yungu0010) | [강현욱 hyunw9](https://github.com/hyunw9) | [권장순 jsoonworld](https://github.com/jsoonworld) | [김선우 kim-seonwoo](https://github.com/kim-seonwoo) | [김환준 jun3327](https://github.com/jun3327) |
-| :--: | :--: | :--: | :--: | :--: | 
-| [도소현 lynydoh](https://github.com/sohyundoh) | [박재연 parkjyun](https://github.com/Parkjyun) | [박준혁 Genesis2010](https://github.com/Genesis2010) | [이민재 mini-min](https://github.com/mini-min) | [이동훈 hoonyworld](https://github.com/hoonyworld)  |
-| [정동규 yummygyudon](https://github.com/yummygyudon) | [정정교 junggyo1020](https://github.com/junggyo1020)  | [조영주 choyeongju](https://github.com/choyeongju)  | [최영철 softmoca](https://github.com/softmoca) | [한정원 Gardeniaa101](https://github.com/Gardeniaa101) |
+| [강윤서 yungu0010](https://github.com/yungu0010) | [강현욱 hyunw9](https://github.com/hyunw9) | [권장순 jsoonworld](https://github.com/jsoonworld) | [김선우 kim-seonwoo](https://github.com/kim-seonwoo) | 
+| :--: | :--: | :--: | :--: | 
+| [김환준 jun3327](https://github.com/jun3327) | [도소현 lynydoh](https://github.com/sohyundoh) | [박재연 parkjyun](https://github.com/Parkjyun) | [박준혁 Genesis2010](https://github.com/Genesis2010) | 
+| [이동훈 hoonyworld](https://github.com/hoonyworld)  |  [이민재 mini-min](https://github.com/mini-min) | [이성민 seongmin221](https://github.com/seongmin221) | [정동규 yummygyudon](https://github.com/yummygyudon) | 
+|[정정교 junggyo1020](https://github.com/junggyo1020)  | [조영주 choyeongju](https://github.com/choyeongju)  | [최영철 softmoca](https://github.com/softmoca) | [한정원 Gardeniaa101](https://github.com/Gardeniaa101) |
 
 <br>
 
@@ -37,7 +38,7 @@ Design Pattern 선정은 선착순입니다.
 ### 생성 (Creatinal) 패턴
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
-| 빌더 (Builder) |  | 민재 (4/12 Soon) |
+| 빌더 (Builder) | 영주 (5/3 Soon) | 민재 (4/12 Soon) |
 | 추상 팩토리 (Abstract Factory) | 정교 (4/26 Soon) |
 | 팩토리 메서드 (Factory Method) | 동훈 (4/12 Soon) | 윤서 (4/19 Soon) |
 | 단일체 (Singleton) | 소현 (4/26 Soon) | 선우 (4/12 Soon) |
