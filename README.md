@@ -38,10 +38,10 @@ Design Pattern 선정은 선착순입니다.
 ### 생성 (Creatinal) 패턴
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
-| 빌더 (Builder) | 영주 (5/3 Soon) | 민재 (4/12 Soon) |
+| 빌더 (Builder) | 영주 (5/3 Soon) | [민재 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Builder_Swift.md) |
 | 추상 팩토리 (Abstract Factory) | 정교 (4/26 Soon) |
-| 팩토리 메서드 (Factory Method) | 동훈 (4/12 Soon) | 윤서 (4/19 Soon) |
-| 단일체 (Singleton) | 소현 (4/26 Soon) | 선우 (4/12 Soon) |
+| 팩토리 메서드 (Factory Method) | [동훈 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Factory%20Method_Java.md) | 윤서 (4/19 Soon) |
+| 단일체 (Singleton) | 소현 (4/26 Soon) | [선우 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Singleton_Swift.md) |
 | 모노스테이트 (Monostate)
 | 원형 (Prototype)
 
@@ -61,7 +61,7 @@ Design Pattern 선정은 선착순입니다.
 | :--: | :--: | :--: |
 | 감시자 (Observer) | 영철 (4/26 Soon)
 | 전략 (Strategy)
-| 명령 (Command) | 현욱 (4/12 Soon)
+| 명령 (Command) | [현욱 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Command_Java.md)
 | 책임 연쇄 (Chain of Responsibility)
 | 해석자 (Interpreter)
 | 반복자 (Iterator)
