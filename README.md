@@ -52,7 +52,7 @@ Design Pattern 선정은 선착순입니다.
 | 장식자 (Decorator) | 환준 (4/26 Soon)
 | 퍼사드 (Facade) | 재연 (4/19 Soon)
 | 복합체 (Composite)
-| 프록시 (Proxy) | 동규 (4/19 Soon)
+| 프록시 (Proxy) | [동규 (4/19 Session 2)](/3_Proxy_Java.md)
 | 가교 (Bridge)
 | 플라이급 (Flyweight)
 
