@@ -50,7 +50,7 @@ Design Pattern 선정은 선착순입니다.
 | :--: | :--: | :--: |
 | 적응자 (Adapter) | 장순 (5/3 Soon) | 성민 (5/ Soon) |
 | 장식자 (Decorator) | 환준 (4/26 Soon)
-| 퍼사드 (Facade) | [재연 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_Facade_Java.md) |
+| 퍼사드 (Facade) | [재연 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_Facade_Java.md) |
 | 복합체 (Composite)
 | 프록시 (Proxy) | [동규 (4/19 Session 2)](/3_Proxy_Java.md)
 | 가교 (Bridge)
