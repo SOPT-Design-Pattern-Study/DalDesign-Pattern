@@ -48,9 +48,9 @@ Design Pattern 선정은 선착순입니다.
 ### 구조 (Structural) 패턴
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
-| 적응자 (Adapter) | 장순 (5/3 Soon)
+| 적응자 (Adapter) | 장순 (5/3 Soon) | 성민 (5/ Soon) |
 | 장식자 (Decorator) | 환준 (4/26 Soon)
-| 퍼사드 (Facade) | 재연 (4/19 Soon)
+| 퍼사드 (Facade) | [재연 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_Facade_Java.md) |
 | 복합체 (Composite)
 | 프록시 (Proxy) | [동규 (4/19 Session 2)](/3_Proxy_Java.md)
 | 가교 (Bridge)
@@ -59,14 +59,14 @@ Design Pattern 선정은 선착순입니다.
 ### 행동 (Behavioral) 패턴
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
-| 감시자 (Observer) | 영철 (4/26 Soon)
-| 전략 (Strategy)
+| 감시자 (Observer) | 영철 (4/26 Soon) | 민재 (5/10 Soon) |
+| 전략 (Strategy) | 동규 (5/17 Soon)
 | 명령 (Command) | [현욱 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Command_Java.md)
 | 책임 연쇄 (Chain of Responsibility)
 | 해석자 (Interpreter)
 | 반복자 (Iterator)
 | 중재자 (Mediator)
 | 방문자 (Visitor)
-| 상태 (State) | | 준혁 (4/19 Soon) |
+| 상태 (State) | | [준혁 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_%08State_Swift.md) |
 | 템플릿 메서드 (Template Method)
 | 추억거리 (Memento)
