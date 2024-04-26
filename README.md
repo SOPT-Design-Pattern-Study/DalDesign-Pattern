@@ -40,7 +40,7 @@ Design Pattern 선정은 선착순입니다.
 | :--: | :--: | :--: |
 | 빌더 (Builder) | 영주 (5/3 Soon) | [민재 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Builder_Swift.md) |
 | 추상 팩토리 (Abstract Factory) | 정교 (4/26 Soon) |
-| 팩토리 메서드 (Factory Method) | [동훈 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Factory%20Method_Java.md) | 윤서 (4/19 Soon) |
+| 팩토리 메서드 (Factory Method) | [동훈 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Factory%20Method_Java.md) | [윤서 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_Factory%20Method_Swift.md) |
 | 단일체 (Singleton) | 소현 (4/26 Soon) | [선우 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Singleton_Swift.md) |
 | 모노스테이트 (Monostate)
 | 원형 (Prototype)
