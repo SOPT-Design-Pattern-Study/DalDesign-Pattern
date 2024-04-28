@@ -48,7 +48,7 @@ Design Pattern 선정은 선착순입니다.
 ### 구조 (Structural) 패턴
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
-| 적응자 (Adapter) | 장순 (5/3 Soon) | 성민 (5/ Soon) |
+| 적응자 (Adapter) | 장순 (5/3 Soon) | 성민 (5/3 Soon) |
 | 장식자 (Decorator) | [환준 (4/26 Session 3)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/4_Decorator_Java.md)
 | 퍼사드 (Facade) | [재연 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_Facade_Java.md) |
 | 복합체 (Composite)
