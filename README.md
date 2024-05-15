@@ -70,3 +70,4 @@ Design Pattern 선정은 선착순입니다.
 | 상태 (State) | 영철 (5/17 Soon) | [준혁 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_%08State_Swift.md) |
 | 템플릿 메서드 (Template Method) | 소현 (5/26 Soon)
 | 추억거리 (Memento)
+| 플럭스 (Flux) | | 준혁 (5/26 Soon)
