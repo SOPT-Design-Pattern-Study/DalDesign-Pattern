@@ -38,7 +38,7 @@ Design Pattern 선정은 선착순입니다.
 ### 생성 (Creatinal) 패턴
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
-| 빌더 (Builder) | 영주 (5/3 Soon) | [민재 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Builder_Swift.md) |
+| 빌더 (Builder) | [영주 (5/3 Session 4)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/5_Builder_Pattern_Java.md) | [민재 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Builder_Swift.md) |
 | 추상 팩토리 (Abstract Factory) | [정교 (4/26 Session 3)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/4_Abstract_Factory_Pattern_Java.md) |
 | 팩토리 메서드 (Factory Method) | [동훈 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Factory%20Method_Java.md) | [윤서 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_Factory%20Method_Swift.md) |
 | 단일체 (Singleton) | [소현 (4/26 Session 3)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/4_Singleton_Pattern_Java.md) | [선우 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Singleton_Swift.md) |
@@ -48,7 +48,7 @@ Design Pattern 선정은 선착순입니다.
 ### 구조 (Structural) 패턴
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
-| 적응자 (Adapter) | 장순 (5/3 Soon) | 성민 (5/3 Soon) |
+| 적응자 (Adapter) | [장순 (5/3 Session 4)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/5_Adapter_Pattern_Java.md) | [성민 (5/3 Session 4)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/5_Adapter_Pattern_Swift.md) |
 | 장식자 (Decorator) | [환준 (4/26 Session 3)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/4_Decorator_Java.md)
 | 퍼사드 (Facade) | [재연 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_Facade_Java.md) |
 | 복합체 (Composite)
@@ -60,7 +60,7 @@ Design Pattern 선정은 선착순입니다.
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
 | 감시자 (Observer) | [영철 (4/26 Session 3)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/4_Observer_Pattern_Java.md) | 민재 (5/17 Soon) |
-| 전략 (Strategy) | 동규 (5/17 Soon)
+| 전략 (Strategy) | 동규 (5/24 Soon)
 | 명령 (Command) | [현욱 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Command_Java.md)
 | 책임 연쇄 (Chain of Responsibility)
 | 해석자 (Interpreter)
