@@ -43,7 +43,7 @@
 | 적응자 (Adapter) | [장순 (5/3 Session 4)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/5_Adapter_Pattern_Java.md) | [성민 (5/3 Session 4)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/5_Adapter_Pattern_Swift.md) |
 | 장식자 (Decorator) | [환준 (4/26 Session 3)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/4_Decorator_Java.md)
 | 퍼사드 (Facade) | [재연 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_Facade_Java.md) |
-| 복합체 (Composite)
+| 복합체 (Composite) | 정교 (6/7 Soon)
 | 프록시 (Proxy) | [동규 (4/19 Session 2)](/3_Proxy_Java.md)
 | 가교 (Bridge)
 | 플라이급 (Flyweight)
