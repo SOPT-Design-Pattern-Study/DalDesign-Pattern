@@ -52,7 +52,7 @@
 | Design Pattern | Java | Swift |
 | :--: | :--: | :--: |
 | 감시자 (Observer) | [영철 (4/26 Session 3)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/4_Observer_Pattern_Java.md) | [민재 (5/17 Session 5)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/6_Observer_Pattern_Swift.md) |
-| 전략 (Strategy) | 동규 (5/24 Soon)
+| 전략 (Strategy) | [동규 (5/24 Session 6)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/7_Strategy_Java.md)
 | 명령 (Command) | [현욱 (4/12, Session 1)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/2_Command_Java.md)
 | 책임 연쇄 (Chain of Responsibility)
 | 해석자 (Interpreter)
@@ -60,6 +60,6 @@
 | 중재자 (Mediator)
 | 방문자 (Visitor)
 | 상태 (State) | [영철 (5/17 Session 5)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/6_State_Pattern_Java.md) | [준혁 (4/19 Session 2)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/3_%08State_Swift.md) |
-| 템플릿 메서드 (Template Method) | 소현 (5/24 Soon)
+| 템플릿 메서드 (Template Method) | [소현 (5/24 Session 6)](https://github.com/SOPT-Design-Pattern-Study/DalDesign-Pattern-Study/blob/main/7_Template_Method_Pattern.md)
 | 추억거리 (Memento)
 | 플럭스 (Flux) | | 준혁 (5/24 Soon)
